@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Damian!
 
 <!--
 **dk-raw/dk-raw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+###About Me
+
+I am an avid learner programmer. I am currently practising on ASP.NET applications. You were probably expecting this to be a bit longer, but unfortunately, I'm not that interesting as a person. 
+
+###What I do for Fun
+- I shoot cinematic video sequences
+- I edit videos
+- I chat with my friends
+- I play TF2
+
+###Social Links
+
+[My Website](https://dk-raw.github.io/personal_website/)
+[Twitter](https://twitter.com/dkraw2)
+[Gitlab](https://gitlab.com/dk.raw)
