@@ -23,7 +23,7 @@ I am an avid learner programmer. I am currently practising on ASP.NET applicatio
 - I shoot cinematic video sequences
 - I edit videos
 - I chat with my friends
-- I play TF2
+- I game
 
 ### Social Links
 
