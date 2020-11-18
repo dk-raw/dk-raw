@@ -30,3 +30,4 @@ I am an avid learner programmer. I am currently practising on ASP.NET applicatio
 [My Website](https://dk-raw.github.io/personal_website/)
 [Twitter](https://twitter.com/dkraw2)
 [Gitlab](https://gitlab.com/dk.raw)
+[Skype](skype:DAMIAN KATSIOS)
