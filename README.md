@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 
 ### About Me
 
-I am an avid learner programmer. I am currently practising on ASP.NET applications. You were probably expecting this to be a bit longer, but unfortunately, I'm not that interesting as a person. 
+I am an avid ASP.NET Web Developer and CCNA certified Network Engineer. You were probably expecting this to be a bit longer, but unfortunately, I'm not that interesting as a person. 
 
-### What I do for Fun
+### For fun...
 - I shoot cinematic video sequences
 - I edit videos
 - I chat with my friends
 - I game
 
-### Social Links
+### Find me on...
 
 [My Website](https://dk-raw.github.io/personal_website/)
 [Twitter](https://twitter.com/dkraw2)
