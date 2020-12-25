@@ -27,8 +27,8 @@ I am an avid ASP.NET Web Developer and CCNA, Linux+ and PenTest+ certified Netwo
 
 ### Find me on...
 
-[My Website that does not have a domain yet](https://dk-raw.github.io/personal_website/)
-[Twitter](https://twitter.com/dkraw2)
-[Gitlab](https://gitlab.com/dk.raw)
+[My Website that does not have a domain yet | ](https://dk-raw.github.io/personal_website/)
+[Twitter | ](https://twitter.com/dkraw2)
+[Gitlab | ](https://gitlab.com/dk.raw)
 [email](mailto://d.katsios@myself.com)
 
