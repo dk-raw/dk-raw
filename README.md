@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### About Me
 
-I am an avid ASP.NET Web Developer and CCNA, Linux+ and PenTest+ certified Network Engineer and (ethical) hacker. You were probably expecting this to be a bit longer, but unfortunately, I'm not that interesting as a person. 
+I am an avid ASP.NET Web Developer, CCNA, Linux+, PenTest+ certified Network Engineer and (ethical) hacker. You were probably expecting this to be a bit longer, but unfortunately, I'm not that interesting as a person. 
 
 ### For fun...
 - I shoot cinematic video sequences
