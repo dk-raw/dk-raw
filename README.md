@@ -32,3 +32,6 @@ I am an avid ASP.NET Web Developer, CCNA, Linux+, PenTest+ certified Network Eng
 [Gitlab | ](https://gitlab.com/dk.raw)
 [email](mailto://d.katsios@myself.com)
 
+<p align='center'>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dk-raw&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919">
+</p>
