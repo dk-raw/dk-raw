@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 I am an avid ASP.NET Web Developer, CCNA, Linux+, PenTest+ certified Network Engineer and (ethical) hacker. You were probably expecting this to be a bit longer, but unfortunately, I'm not that interesting as a person. 
 
 ### For fun...
-I shoot cinematic video sequences
-I edit videos
-I chat with my friends
+I shoot cinematic video sequences,
+I edit videos,
+I chat with my friends,
 I game
 
 ### Find me on...
