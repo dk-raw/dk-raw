@@ -6,7 +6,7 @@
 
 ### About Me
 
-I am an avid ASP.NET Web Developer, CCNA, Linux+, PenTest+ certified Network Engineer and (ethical) hacker. You were probably expecting this to be a bit longer, but unfortunately, I'm not that interesting as a person. 
+ASP.NET, HTML, JAVASCRIPT, CSS and begginer penetration tester. You were probably expecting this to be a bit longer, but unfortunately, I'm not that interesting as a person. 
 
 ### For fun...
 I shoot cinematic video sequences,
@@ -16,7 +16,7 @@ I game
 
 ### Find me on...
 
-[My Website that does not have a domain yet | ](https://dk-raw.github.io/personal_website/)
+[My Website | ](https://dkatsios.ml)
 [Twitter | ](https://twitter.com/dkraw2)
 [Gitlab | ](https://gitlab.com/dk.raw)
 [email](mailto://d.katsios@myself.com)
