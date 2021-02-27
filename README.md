@@ -22,6 +22,7 @@ I game
 [email](mailto://d.katsios@myself.com)
 </div>
 <div align='center'>
+ 
    [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=dk-raw&show_icons=true&theme=vue-dark&include_all_commits=true)]()
 
 
