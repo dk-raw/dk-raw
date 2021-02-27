@@ -22,6 +22,9 @@ I game
 [email](mailto://d.katsios@myself.com)
 </div>
 <p align='center'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dk-raw&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919">
-    https://github-readme-stats.vercel.app/api?username=dk-raw&show_icons=true&theme=vue-dark&include_all_commits=true
+    [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=dannnington&show_icons=true&theme=vue-dark&include_all_commits=true)]()
+
+
+   [![ReadMe Card](https://github-readme-stats.vercel.app/api/top-langs?username=dannnington&show_icons=true&theme=vue-dark&include_all_commits=true)]()
+
 </p>
