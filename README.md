@@ -23,6 +23,8 @@ I game
 </div>
 <div align='center'>
  
+### Stats...
+ 
    [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=dk-raw&show_icons=true&theme=vue-dark&include_all_commits=true)]()
 
 
