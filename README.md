@@ -8,7 +8,7 @@
 
 ASP.NET MVC, HTML, JAVASCRIPT, CSS and begginer penetration tester. You were probably expecting this to be a bit longer, but unfortunately, I'm not that interesting as a person. 
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/dk-raw?color=black&label=Github%20Followers&logo=Github&logoColor=white&style=for-the-badge">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/dk-raw?color=#273849&label=Github%20Followers&logo=Github&logoColor=white&style=for-the-badge">
 
 ### For fun...
 I shoot cinematic video sequences,
