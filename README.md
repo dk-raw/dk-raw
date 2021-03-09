@@ -11,7 +11,6 @@ ASP.NET MVC, HTML, JAVASCRIPT, CSS and begginer penetration tester. You were pro
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/dk-raw?color=black&label=Github%20Followers&logo=Github&logoColor=white&style=for-the-badge">
 
 ### For fun...
-I shoot cinematic video sequences,
 I edit videos,
 I chat with my friends,
 I game
