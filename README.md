@@ -29,6 +29,6 @@ I game
    [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=dk-raw&show_icons=true&theme=vue-dark&include_all_commits=true )]()
 
 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dk-raw)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dk-raw&show_icons=true&theme=vue-dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
