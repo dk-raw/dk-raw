@@ -32,6 +32,8 @@ I game
    
    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dk-raw&show_icons=true&theme=vue-dark&include_all_commits=true" alt="ualehosaini" /></p> 
    
+### Wakatime (newly added)...
+   
    [![Damian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dk_raw&show_icons=true&theme=vue-dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
