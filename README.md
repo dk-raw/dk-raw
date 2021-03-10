@@ -31,7 +31,7 @@ I game
   
  [![Damian's Commits](https://github-readme-streak-stats.herokuapp.com/?user=dk-raw&show_icons=true&theme=vue-dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
    
-### Wakatime (newly added)...
+### Wakatime (Doesn't Work)...
    
    [![Damian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dk_raw&show_icons=true&theme=vue-dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
