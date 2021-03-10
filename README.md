@@ -30,7 +30,7 @@ I game
 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dk-raw&show_icons=true&theme=vue-dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
    
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dk-raw&show_icons=true&theme=vue-dark&include_all_commits=true" alt="ualehosaini" /></p> 
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dk_raw&show_icons=true&theme=vue-dark&include_all_commits=true" alt="ualehosaini" /></p> 
    
    [![Damian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dk-raw&show_icons=true&theme=vue-dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
