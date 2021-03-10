@@ -16,10 +16,10 @@ I game
 
 ### Find me on...
 
-[The Web? | ](https://dkatsios.ml)
-[Twitter | ](https://twitter.com/damik_raw)
-[Gitlab | ](https://gitlab.com/dk.raw)
-[email](mailto://hello@dkatsios.tk)
+[The Web?](https://dkatsios.ml) | 
+ [Twitter](https://twitter.com/damik_raw) | 
+ [Gitlab](https://gitlab.com/dk.raw) | 
+ [email](mailto://hello@dkatsios.tk) 
 </div>
 <div align='center'>
  
