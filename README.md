@@ -19,7 +19,7 @@ I game
 [The Web?](https://dkatsios.ml) | 
  [Twitter](https://twitter.com/damik_raw) | 
  [Gitlab](https://gitlab.com/dk.raw) | 
- [email](mailto://hello@dkatsios.tk) 
+ [email](mailto:hello@dkatsios.tk?subject=Github&body=Dear%20Damian%2C%0D%0A%0D%0AI%20am%20writing%20to%20inform%20%2F%20warn%20%2F%20respond%20%2F%20ask%20you%20about%20.%20.%20.) 
 </div>
 <div align='center'>
  
