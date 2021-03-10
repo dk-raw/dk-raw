@@ -25,11 +25,10 @@ I game
  
 ### Stats...
  
+ [![Damian's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dk-raw&show_icons=true&theme=vue-dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+ 
    [![Damian's ReadMe Card](https://github-readme-stats.vercel.app/api?username=dk-raw&show_icons=true&theme=vue-dark&include_all_commits=true )]()
-
-
-   [![Damian's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dk-raw&show_icons=true&theme=vue-dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-   
+  
    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dk-raw&show_icons=true&theme=vue-dark&include_all_commits=true" alt="something went wrong" /></p> 
    
 ### Wakatime (newly added)...
