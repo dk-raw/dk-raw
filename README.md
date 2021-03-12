@@ -36,7 +36,8 @@ I game
    
    [![Damian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dk_raw&show_icons=true&theme=vue-dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<b align='center'>Press any key to continue . . .</b>
 
 </div>
 
-<b align='center'>Press any key to continue . . .</b>
+
