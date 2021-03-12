@@ -39,4 +39,4 @@ I game
 
 </div>
 
-<b>Press any key to continue . . .</b>
+<b align='center'>Press any key to continue . . .</b>
