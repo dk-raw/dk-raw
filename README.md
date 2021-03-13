@@ -24,7 +24,7 @@ I game
 </div>
 <div align='center'>
  
-### Stats...
+### Stats..
  
  [![Damian's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dk-raw&show_icons=true&theme=vue-dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
  
