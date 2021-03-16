@@ -17,10 +17,10 @@ I game
 
 ### Find me on...
 
-[The Web?](https://dkatsios.ml) | 
- [Twitter](https://twitter.com/damik_raw) | 
- [Gitlab](https://gitlab.com/dk.raw) | 
- [email](mailto:hello@dkatsios.tk?subject=Github&body=Dear%20Damian%2C%0D%0A%0D%0AI%20am%20writing%20to%20inform%20%2F%20warn%20%2F%20respond%20%2F%20ask%20you%20about%20.%20.%20.) 
+[The Web?](https://dkatsios.ml "dkatsios.ml") | 
+ [Twitter](https://twitter.com/damik_raw "@damik_raw") | 
+ [Gitlab](https://gitlab.com/dk.raw "@dk.raw") | 
+ [email](mailto:hello@dkatsios.tk?subject=Github&body=Dear%20Damian%2C%0D%0A%0D%0AI%20am%20writing%20to%20inform%20%2F%20warn%20%2F%20respond%20%2F%20ask%20you%20about%20.%20.%20. "hello@dkatsios.tk") 
 </div>
 <div align='center'>
  
