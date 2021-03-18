@@ -7,7 +7,7 @@
 <!--test test -->
 ### About Me
 
-ASP.NET MVC, HTML, JAVASCRIPT, CSS and begginer penetration tester. You were probably expecting this to be a bit longer, but unfortunately, I'm not that interesting as a person. 
+ASP.NET MVC and JavaScript(Plain, JQuery, Typescript, React.js). I am also a cyber-security geek. You were probably expecting this to be a bit longer, but unfortunately, I'm not that interesting as a person. 
 
 
 ### For fun...
