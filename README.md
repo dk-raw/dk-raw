@@ -38,7 +38,7 @@ I game
 
 ### Trophies...
 
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dk-raw&theme=onedark&margin-w=15&margin-h=15&column=7" alt="dk-raw" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dk-raw&theme=darkhub&margin-w=10&margin-h=10&column=7" alt="dk-raw" /></a> </p>
 
 
 <b align='center'>Press any key to continue . . .</b>
