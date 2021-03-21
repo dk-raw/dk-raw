@@ -36,6 +36,11 @@ I game
    
    [![Damian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dk_raw&show_icons=true&theme=vue-dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats "Damian's WakaTime")
 
+### Trophies...
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dk-raw&theme=onedark&margin-w=15&margin-h=15&column=7" alt="willdoescode" /></a> </p>
+
+
 <b align='center'>Press any key to continue . . .</b>
 
 </div>
