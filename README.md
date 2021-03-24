@@ -1,6 +1,6 @@
 <div align='center'>
  
-## Hello World! My name is Damian
+## `<h2>@Hello.World</h2>` My name is Damian
 
 ![image](https://user-images.githubusercontent.com/68110106/110680421-429ad480-81e1-11eb-9d39-16b3dad3b023.png)
 
@@ -41,8 +41,7 @@ I game
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dk-raw&theme=darkhub&margin-w=10&margin-h=10&column=7" alt="dk-raw" /></a> </p>
 
 
-<b align='center'>Press any key to continue . . .</b>
-
+`Press any key to continue . . .`
 </div>
 
 
