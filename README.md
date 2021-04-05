@@ -40,8 +40,15 @@ I game
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dk-raw&theme=darkhub&margin-w=10&margin-h=10&column=7" alt="dk-raw" /></a> </p>
 
+```CSHTML
+@{
+    for (int i = 0; i < 70; i++) 
+    {
+        <strong>Press any key to continue. . .</strong>
+    }
+}
+```
 
-`Press any key to continue . . .`
 </div>
 
 
