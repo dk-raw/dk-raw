@@ -8,9 +8,8 @@
 
 ![image](https://user-images.githubusercontent.com/68110106/110680421-429ad480-81e1-11eb-9d39-16b3dad3b023.png)
 
-<p> <img src="https://komarev.com/ghpvc/?username=dk-raw&label=Profile%20views&color=0e75b6&style=flat" alt="dk-raw" /> </p>
+<!-- <p> <img src="https://komarev.com/ghpvc/?username=dk-raw&label=Profile%20views&color=0e75b6&style=flat" alt="dk-raw" /> </p> -->
 
-<!--test test -->
 ### About Me
 
 I am a cyber-security geek. You were probably expecting this to be a bit longer, but unfortunately, I'm not that interesting as a person. 
@@ -49,7 +48,7 @@ I game
 
 ### Find me on...
 
-[The Web?](https://dkatsios.ml "dkatsios.ml") | 
+[The Internet?](https://dkatsios.ml "dkatsios.ml") | 
  [Twitter](https://twitter.com/damik_raw "@damik_raw") | 
  [Gitlab](https://gitlab.com/dk.raw "@dk.raw") | 
  [email](mailto:hello@dkatsios.tk?subject=Github&body=Dear%20Damian%2C%0D%0A%0D%0AI%20am%20writing%20to%20inform%20%2F%20warn%20%2F%20respond%20%2F%20ask%20you%20about%20.%20.%20. "hello@dkatsios.tk") 
