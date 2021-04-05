@@ -16,7 +16,7 @@ I like to code. You were probably expecting this to be a bit longer, but unfortu
 
 <div align='left'>
 
-#### Technologies
+### Technologies
 
 - ASP.NET
     - MVC
@@ -40,16 +40,17 @@ I like to code. You were probably expecting this to be a bit longer, but unfortu
 </div>
 
 ### For fun...
-I edit videos,
-I chat with my friends,
-I game
+
+- I game
+- I chat with my friends
+- I learn new thechnologies
 
 ### Find me on...
 
-[The Internet?](https://dkatsios.ml "dkatsios.ml") | 
- [Twitter](https://twitter.com/damik_raw "@damik_raw") | 
- [Gitlab](https://gitlab.com/dk.raw "@dk.raw") | 
- [email](mailto:hello@dkatsios.tk?subject=Github&body=Dear%20Damian%2C%0D%0A%0D%0AI%20am%20writing%20to%20inform%20%2F%20warn%20%2F%20respond%20%2F%20ask%20you%20about%20.%20.%20. "hello@dkatsios.tk") 
+- [My website](https://dkatsios.ml "dkatsios.ml")
+- [Twitter](https://twitter.com/damik_raw "@damik_raw")
+- [Gitlab](https://gitlab.com/dk.raw "@dk.raw")
+- [Email](mailto:hello@dkatsios.tk?subject=Github&body=Dear%20Damian%2C%0D%0A%0D%0AI%20am%20writing%20to%20inform%20%2F%20warn%20%2F%20respond%20%2F%20ask%20you%20about%20.%20.%20. "hello@dkatsios.tk") 
 </div>
 <div align='left'>
  
