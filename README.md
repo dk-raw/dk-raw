@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/68110106/110680421-429ad480-81e1-11eb-9d39-16b3dad3b023.png)
 
-<p> <img src="https://komarev.com/ghpvc/?username=dk-raw&label=Profile%20views&color=0e75b6&style=flat" alt="willdoescode" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=dk-raw&label=Profile%20views&color=0e75b6&style=flat" alt="dk-raw" /> </p>
 
 <!--test test -->
 ### About Me
@@ -28,15 +28,15 @@ I game
  
 ### Stats...
  
- [![Damian's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dk-raw&show_icons=true&theme=dark&bg_color=171b22&text_color=CCCCCC&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats "Damian's top languages")
+ [![Damian's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dk-raw&show_icons=true&theme=darkhub&bg_color=171b22&text_color=CCCCCC&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats "Damian's top languages")
  
-   [![Damian's ReadMe Card](https://github-readme-stats.vercel.app/api?username=dk-raw&show_icons=true&theme=dark&bg_color=171b22&text_color=CCCCCC&hide_border=true&include_all_commits=true )](https://github.com/anuraghazra/github-readme-stats "Damian's ReadMe")
+   [![Damian's ReadMe Card](https://github-readme-stats.vercel.app/api?username=dk-raw&show_icons=true&theme=darkhub&bg_color=171b22&text_color=CCCCCC&hide_border=true&include_all_commits=true )](https://github.com/anuraghazra/github-readme-stats "Damian's ReadMe")
   
- [![Damian's Commits](https://github-readme-streak-stats.herokuapp.com/?user=dk-raw&show_icons=true&theme=dark&text_color=171B22&bg_color=171B22&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats "Damian's commit streak")
+ [![Damian's Commits](https://github-readme-streak-stats.herokuapp.com/?user=dk-raw&show_icons=true&theme=darkhub&text_color=171B22&bg_color=171B22&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats "Damian's commit streak")
    
 ### Wakatime (Doesn't Work)...
    
-   [![Damian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dk_raw&show_icons=true&theme=dark&bg_color=171b22&text_color=CCCCCC&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats "Damian's WakaTime")
+   [![Damian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dk_raw&show_icons=true&theme=darkhub&bg_color=171b22&text_color=CCCCCC&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats "Damian's WakaTime")
 
 ### Trophies...
 
