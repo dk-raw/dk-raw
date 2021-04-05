@@ -11,6 +11,8 @@
 
 I am a cyber-security geek. You were probably expecting this to be a bit longer, but unfortunately, I'm not that interesting as a person. 
 
+<div align='left'>
+
 - ASP.NET
     - MVC
     - Core
@@ -25,6 +27,8 @@ I am a cyber-security geek. You were probably expecting this to be a bit longer,
     - Plain
     - Pure
     - Bootsrap
+
+</div>
 
 ### For fun...
 I edit videos,
