@@ -46,7 +46,7 @@ I game
 @{
     for (int i = 0; i < 70; i++) 
     {
-        <strong>Press any key to continue. . .</strong>
+        <strong>@Phrases.SmartOutro</strong>
     }
 }
 ```
