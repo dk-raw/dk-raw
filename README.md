@@ -9,8 +9,22 @@
 <!--test test -->
 ### About Me
 
-ASP.NET MVC/Core, C# and JavaScript(Vanilla, JQuery, React.js, TypeScript). I am also a cyber-security geek. You were probably expecting this to be a bit longer, but unfortunately, I'm not that interesting as a person. 
+I am a cyber-security geek. You were probably expecting this to be a bit longer, but unfortunately, I'm not that interesting as a person. 
 
+- ASP.NET
+    - MVC
+    - Core
+- C#
+- JavaScript
+    - Vanilla
+    - jQuery
+    - React.js
+    - TypeScript
+- HTML
+- CSS
+    - Plain
+    - Pure
+    - Bootsrap
 
 ### For fun...
 I edit videos,
