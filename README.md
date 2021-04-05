@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/68110106/110680421-429ad480-81e1-11eb-9d39-16b3dad3b023.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dk-raw&label=Profile%20views&color=0e75b6&style=flat" alt="willdoescode" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=dk-raw&label=Profile%20views&color=0e75b6&style=flat" alt="willdoescode" /> </p>
 
 <!--test test -->
 ### About Me
