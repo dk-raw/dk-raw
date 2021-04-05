@@ -1,6 +1,10 @@
 <div align='left'>
  
+<div align='center'>
+
 ## `<h2>@ViewBag.HelloWorld</h2>` My name is Damian
+
+</div>
 
 ![image](https://user-images.githubusercontent.com/68110106/110680421-429ad480-81e1-11eb-9d39-16b3dad3b023.png)
 
@@ -12,6 +16,8 @@
 I am a cyber-security geek. You were probably expecting this to be a bit longer, but unfortunately, I'm not that interesting as a person. 
 
 <div align='left'>
+
+#### Technologies
 
 - ASP.NET
     - MVC
@@ -27,6 +33,12 @@ I am a cyber-security geek. You were probably expecting this to be a bit longer,
     - Plain
     - Pure
     - Bootsrap
+- DevOps
+    - Visual Studio 2019
+    - GitHub
+    - Git
+    - Vim
+
 
 </div>
 
