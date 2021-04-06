@@ -24,6 +24,7 @@ I like to code. You were probably expecting this to be a bit longer, but unfortu
     - MVC
     - Core
 - C#
+    - .NET
 - SQL
     - Entity
 - JavaScript
