@@ -48,13 +48,13 @@ I like to code. You were probably expecting this to be a bit longer, but unfortu
 - I chat with my friends
 - I learn new thechnologies
 
-### Find me on...
+### Find Me on...
 
 - [My website](https://dkatsios.ml "dkatsios.ml")
 - [Twitter](https://twitter.com/damik_raw "@damik_raw")
 - [Gitlab](https://gitlab.com/dk.raw "@dk.raw")
 
-### Contact Me...
+### Contact Me via...
 
 - [Email](mailto:hello@dkatsios.tk?subject=Github&body=Dear%20Damian%2C%0D%0A%0D%0AI%20am%20writing%20to%20inform%20%2F%20warn%20%2F%20respond%20%2F%20ask%20you%20about%20.%20.%20. "hello@dkatsios.tk") 
 - [Discord](https://discord.com/invite/VwvQNYzU5M "dk.raw#4482") 
@@ -71,7 +71,7 @@ I like to code. You were probably expecting this to be a bit longer, but unfortu
 <!--  [![Damian's Commits](https://github-readme-streak-stats.herokuapp.com/?user=dk-raw&show_icons=true&theme=gotham&text_color=171B22&bg_color=171B22&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats "Damian's commit streak")
 -->
    
-### Wakatime (Doesn't Work)...
+### Wakatime(Doesn't Work)...
    
 [![Damian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dk_raw&show_icons=true&theme=gotham&bg_color=171b22&text_color=CCCCCC&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats "Damian's WakaTime")
 
