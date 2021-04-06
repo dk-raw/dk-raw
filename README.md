@@ -83,7 +83,7 @@ I like to code. You were probably expecting this to be a bit longer, but unfortu
 
 ```CSHTML
 @{
-    for (int i = 0; i < 70; i++) 
+    for (int i = 0; i < 69; i++) 
     {
         <strong>@Phrases.SmartOutro[1]</strong>
     }
