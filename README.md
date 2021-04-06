@@ -80,7 +80,7 @@ I like to code. You were probably expecting this to be a bit longer, but unfortu
 @{
     for (int i = 0; i < 70; i++) 
     {
-        <strong>@Phrases.SmartOutro</strong>
+        <strong>@Phrases.SmartOutro[1]</strong>
     }
 }
 ```
