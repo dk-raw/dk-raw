@@ -58,6 +58,7 @@ I like to code. You were probably expecting this to be a bit longer, but unfortu
 ### Contact Me via...
 
 - [Email](mailto:hello@dkatsios.tk?subject=Github&body=Dear%20Damian%2C%0D%0A%0D%0AI%20am%20writing%20to%20inform%20%2F%20warn%20%2F%20respond%20%2F%20ask%20you%20about%20.%20.%20. "hello@dkatsios.tk") 
+- [More important Email?](mailto:business@dkatsios.tk "business@dkatsios.tk") 
 - [Discord](https://discord.com/invite/VwvQNYzU5M "dk.raw#4482") 
 
 
