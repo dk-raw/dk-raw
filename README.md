@@ -1,6 +1,6 @@
 <div align='center'>
 
-## ```<h2>@ViewBag.HelloWorld</h2>``` My name is Damian
+## ```<h2>@ViewBag.HelloWorld!</h2>``` My name is Damian.
 
 </div>
 
