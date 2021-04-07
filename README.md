@@ -80,7 +80,7 @@ I like to code. You were probably expecting this to be a bit longer, but unfortu
 
 ### Trophies...
 
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dk-raw&theme=darkhub&margin-w=10&margin-h=10&column=7" alt="dk-raw" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dk-raw&theme=darkhub&column=7" alt="dk-raw" /></a> </p>
 
 
 ```CSHTML
