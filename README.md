@@ -13,8 +13,8 @@
 I like to code. You were probably expecting this to be a bit longer, but unfortunately, I'm not that interesting as a person. 
 
 - ✔️ Can code
-- ✖️ Can lend you money
-- ✖️ Can make you coffee
+- ✖️ ~~Can lend you money~~
+- ✖️ ~~Can make you coffee~~
 
 <div align='left'>
 
