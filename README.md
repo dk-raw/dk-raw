@@ -15,6 +15,7 @@ I like to code. You were probably expecting this to be a bit longer, but unfortu
 - ✔️ Can code
 - ✖️ ~~Can lend you money~~
 - ✖️ ~~Can make you coffee~~
+- ✖️ ~~Can fix your printer~~
 
 <div align='left'>
 
