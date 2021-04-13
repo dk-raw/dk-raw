@@ -38,11 +38,12 @@ I like to code. You were probably expecting this to be a bit longer, but unfortu
 - CSS
     - Plain
     - Bootsrap
-- DevOps / IDEs
-    - Visual Studio 2019
+- DevOps
     - GitHub
     - Git
-    - Vim
+    - Azure
+    - Visual Studio 2019
+    - Visual Studio Code
 
 
 ### For fun...
