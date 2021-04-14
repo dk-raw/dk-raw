@@ -48,6 +48,8 @@ I like to code. You were probably expecting this to be a bit longer, but unfortu
 ### Cool things I found...
 
 - [GitHub Skyline](https://skyline.github.com/dk-raw/2021)
+- [3D Global Network Map](https://he.net/3d-map/)
+- [Cool Personal Website](https://bruno-simon.com/)
 
 ### For fun...
 
