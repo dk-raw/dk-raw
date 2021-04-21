@@ -81,10 +81,6 @@ I like to code. You were probably expecting this to be a bit longer, but unfortu
 <!--  [![Damian's Commits](https://github-readme-streak-stats.herokuapp.com/?user=dk-raw&show_icons=true&theme=gotham&text_color=171B22&bg_color=171B22&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats "Damian's commit streak")
 -->
    
-### Wakatime(Don't Work)...
-   
-[![Damian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dk_raw&show_icons=true&theme=darkhub&bg_color=171b22&text_color=CCCCCC&hide_border=true&include_all_commits=true&count_private=true)](https://dkatsios.ml "Damian's WakaTime")
-
 ### Trophies...
 
 <p> <a href="https://dkatsios.ml"><img src="https://github-profile-trophy.vercel.app/?username=dk-raw&theme=darkhub&margin-w=12&margin-h=10&column=7" alt="Damian's Trophies" /></a> </p>
