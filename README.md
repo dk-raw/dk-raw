@@ -87,7 +87,7 @@ I like to code. You were probably expecting this to be a bit longer, but unfortu
 
 ### Contribution Graph...
 
-[![Damian's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=dk-raw&theme=react-dark)](https://dkatsios.ml "Damian's Contribution Graph")
+[![Damian's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=dk-raw&theme=react-dark&hide_border=true&include_all_commits=true&count_private=true)](https://dkatsios.ml "Damian's Contribution Graph")
 
 ```CSHTML
 @{
