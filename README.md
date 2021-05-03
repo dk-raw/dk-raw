@@ -85,6 +85,9 @@ I like to code. You were probably expecting this to be a bit longer, but unfortu
 
 <p> <a href="https://dkatsios.ml"><img src="https://github-profile-trophy.vercel.app/?username=dk-raw&theme=darkhub&margin-w=12&margin-h=10&column=7" alt="Damian's Trophies" /></a> </p>
 
+### Contribution Graph...
+
+![](https://activity-graph.herokuapp.com/graph?username=dk-raw&theme=react-dark)
 
 ```CSHTML
 @{
