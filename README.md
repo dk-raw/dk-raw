@@ -40,7 +40,6 @@ I like to code. You were probably expecting this to be a bit longer, but unfortu
 - DevOps
     - GitHub
     - Git
-    - Azure
     - Visual Studio 2019
     - Visual Studio Code
 
