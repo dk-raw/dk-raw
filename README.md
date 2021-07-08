@@ -31,18 +31,18 @@ I like to code. You were probably expecting this to be a bit longer, but unfortu
     - Entity
 - JavaScript
     - Vanilla
-    - jQuery
+    - Node.js
     - React.js
     - TypeScript
+    - jQuery
 - HTML
 - CSS
-    - Plain
-    - Bootsrap
+    - Bootsrap 5
 - DevOps
     - GitHub
     - Git
     - Visual Studio 2019
-    - Visual Studio Code
+    - Visual Studio 2022
 
 ### Cool things I found...
 
@@ -53,7 +53,6 @@ I like to code. You were probably expecting this to be a bit longer, but unfortu
 ### For fun...
 
 - I game
-- I chat with my friends
 - I learn new thechnologies
 
 ### Find Me on...
@@ -76,9 +75,6 @@ I like to code. You were probably expecting this to be a bit longer, but unfortu
 
 [![Damian's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dk-raw&show_icons=true&theme=darkhub&bg_color=171b22&text_color=CCCCCC&hide_border=true&include_all_commits=true&count_private=true)](https://dkatsios.ml "Damian's top languages")
 [![Damian's ReadMe Card](https://github-readme-stats.vercel.app/api?username=dk-raw&show_icons=true&theme=darkhub&bg_color=171b22&text_color=CCCCCC&hide_border=true&include_all_commits=true&count_private=true)](https://dkatsios.ml "Damian's Contributions")
-  
-<!--  [![Damian's Commits](https://github-readme-streak-stats.herokuapp.com/?user=dk-raw&show_icons=true&theme=gotham&text_color=171B22&bg_color=171B22&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats "Damian's commit streak")
--->
    
 | Trophies... |
 |-------|
