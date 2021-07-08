@@ -35,6 +35,9 @@ I like to code. You were probably expecting this to be a bit longer, but unfortu
     - React.js
     - TypeScript
     - jQuery
+- WASM
+    - Blazor
+    - Blazor Server
 - HTML
 - CSS
     - Bootsrap 5
