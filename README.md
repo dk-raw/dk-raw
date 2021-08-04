@@ -32,9 +32,14 @@ I like to code. You were probably expecting this to be a bit longer, but unfortu
 |[![Damian's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=dk-raw&theme=react-dark&hide_border=true&include_all_commits=true&count_private=true)](https://dkatsios.ml "Damian's Contribution Graph")|
 
 ```C++
-string THANK_READER()
-{
-    return "Thanks for reading my README. Hope to see you again!"
-}
+ class MESSAGES
+ {
+   public:
+       string THANK_READER()
+       {
+          return "Thanks for reading my README. Hope to see you again!"
+       }
+ }
+
 ```
 
