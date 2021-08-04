@@ -1,6 +1,6 @@
 <div align='center'>
 
-## `System.Console.WriteLine($"Long time no see stranger! My name is ${github.username}");`
+## `System.Console.WriteLine($"Long time no see stranger! My name is ${github.username}. Welcome to my README!");`
 
 </div>
 
